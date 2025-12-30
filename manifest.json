@@ -1,0 +1,9 @@
+{
+  "id": "v-formula-calculator",
+  "name": "V-Formula Calculator",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Create, manage, and embed interactive calculators directly in your notes using simple formulas and variables.",
+  "author": "Vetrenar",
+  "isDesktopOnly": false
+}
